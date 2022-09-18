@@ -1,1 +1,3 @@
 # INFO6305Fall2022
+
+Assignment of INFO6305 Fall 2022
